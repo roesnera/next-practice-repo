@@ -2,7 +2,7 @@
     color: purple;
     background-color: rgba(44, 42, 42, 0.4);
     font-size: 4rem;
-    height: calc(.6 * var(--main-height));
+    height: calc(.6 * 70vh);
     text-overflow: ellipsis;
     display: grid;
     grid-template-columns: [start] 35% [median] auto [end];
